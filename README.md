@@ -3,7 +3,7 @@ Hi, I'm [Arun Kumar M](https://github.com/kumarrrm), a passionate mechatronics e
 I am also an electronics hobbyist who loves to tinker and build new projects!
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://iconscout.com/lottie/robotic-arm-4877582" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
